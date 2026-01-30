@@ -1,0 +1,17 @@
+# Core ML / Data
+numpy
+pandas
+scikit-learn==1.6.1
+
+# TensorFlow / Keras
+tensorflow
+
+# API
+fastapi
+uvicorn
+
+# Validation / Models
+pydantic
+
+# Utilities
+joblib
